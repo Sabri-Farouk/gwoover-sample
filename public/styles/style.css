@@ -1,0 +1,16 @@
+body {
+	background: white;
+	color: black;
+}
+
+.app-container {
+	display: flex;
+	width: 100%;
+	min-height: 6em;
+}
+
+
+.groove-interface {
+	
+}
+
